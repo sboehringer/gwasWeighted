@@ -1,7 +1,7 @@
 Package: gwasWeighted
 Type: Package
 Title: Weighted Bonferroni Correction in GWASs
-Version: 0.1-0
+Version: 0.1-1
 Date: 2021-06-08
 Author: Stefan Böhringer <r-packages@s-boehringer.org>
 Maintainer: Stefan Böhringer <r-packages@s-boehringer.org>

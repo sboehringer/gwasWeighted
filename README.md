@@ -1,4 +1,4 @@
-# R-package `gwasWeighted`, version 0.1-0
+# R-package `gwasWeighted`, version 0.1-1
 ## Installation
 ```{r}
 library(devtools);
